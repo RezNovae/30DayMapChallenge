@@ -7,7 +7,7 @@
 | **Day** | **Theme** | **Map** |
 | --- | --- | --- |
 | 1 | Points | ![Map 01](https://user-images.githubusercontent.com/21320677/139735196-746a401b-6575-4cf0-b3f5-156390d2a654.jpg) |
-| 2 | Lines |  |
+| 2 | Lines | ![Map 02](https://user-images.githubusercontent.com/21320677/139955738-c1ced475-0bee-4b3f-903b-9e10aef08a0c.jpg) |
 | 3 | Polygons |  |
 | 4 | Hexagons |
 | 5 | Data challenge 1: OpenStreetMap |
