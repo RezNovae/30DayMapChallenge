@@ -1,6 +1,7 @@
 # #30DayMapChallenge 🌎🌏🌎
 
-My contributions to the #30DayMapChallenge initiated by Topi Tjukanov.
+My contributions to the [#30DayMapChallenge](https://twitter.com/tjukanov/status/1443868144905428992) initiated by Topi Tjukanov.
+
 ![30dmpc_2021](https://user-images.githubusercontent.com/21320677/140099900-6ce33bf2-b222-483f-a0fb-6af1c72ed080.png)
 
 
