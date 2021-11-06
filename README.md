@@ -13,7 +13,7 @@ My contributions to the [#30DayMapChallenge](https://twitter.com/tjukanov/status
 | 1 | Points | ![Map 01](https://user-images.githubusercontent.com/21320677/139735196-746a401b-6575-4cf0-b3f5-156390d2a654.jpg) |
 | 2 | Lines | ![Map 02](https://user-images.githubusercontent.com/21320677/139955738-c1ced475-0bee-4b3f-903b-9e10aef08a0c.jpg) |
 | 3 | Polygons | ![Map 03](https://user-images.githubusercontent.com/21320677/140261186-a0316cff-ab26-4e10-aa32-83ce5d389e37.jpg) |
-| 4 | Hexagons |
+| 4 | Hexagons | ![Map 04](https://user-images.githubusercontent.com/21320677/140595684-de2cc250-51ac-4f3f-811c-00a4f49b4abf.jpg) |
 | 5 | Data challenge 1: OpenStreetMap |![Map 05](https://user-images.githubusercontent.com/21320677/140566291-71012cd7-0416-422b-b681-155fba88bcae.jpg) |
 | 6 | Red |
 | 7 | Green |
