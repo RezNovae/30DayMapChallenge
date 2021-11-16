@@ -25,7 +25,7 @@ My contributions to the [#30DayMapChallenge](https://twitter.com/tjukanov/status
 | 13 | Data challenge 2: Natural Earth |
 | 14 | Map with a new tool	|
 | 15 | Map made without using a computer	|
-| 16 | Urban/rural	|
+| 16 | Urban/rural	|![Urban](https://user-images.githubusercontent.com/21320677/142044087-825d8fbd-2d6a-48e4-9218-870e0e811505.png) |
 | 17 | Land |
 | 18 | Water |
 | 19 | Island(s)	|
