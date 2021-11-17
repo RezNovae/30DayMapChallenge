@@ -20,7 +20,7 @@ My contributions to the [#30DayMapChallenge](https://twitter.com/tjukanov/status
 | 8 | Blue |
 | 9 | Monochrome |
 | 10 | Raster |
-| 11 | 3D |
+| 11 | 3D | ![Map 11](https://user-images.githubusercontent.com/21320677/142274916-450bd2e3-9544-4ba3-8b47-c97f12f159f4.png) |
 | 12 | Population |
 | 13 | Data challenge 2: Natural Earth |
 | 14 | Map with a new tool	|
