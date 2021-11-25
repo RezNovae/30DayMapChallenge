@@ -23,7 +23,7 @@ My contributions to the [#30DayMapChallenge](https://twitter.com/tjukanov/status
 | 11 | 3D | ![Map 11](https://user-images.githubusercontent.com/21320677/142274916-450bd2e3-9544-4ba3-8b47-c97f12f159f4.png) |
 | 12 | Population |
 | 13 | Data challenge 2: Natural Earth |
-| 14 | Map with a new tool	|
+| 14 | Map with a new tool	|![Map 08 2](https://user-images.githubusercontent.com/21320677/143345213-72925fb8-b3da-4dbc-a658-3825c66c5c24.png) |
 | 15 | Map made without using a computer	|
 | 16 | Urban/rural	|![Urban](https://user-images.githubusercontent.com/21320677/142044087-825d8fbd-2d6a-48e4-9218-870e0e811505.png) |
 | 17 | Land |
